@@ -23,4 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-src/components/API_LINK.jsx
+#src/components/API_LINK.jsx
